@@ -8,7 +8,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Nyn.NynRealm">
-    <Position X="11.75" Y="3" Width="1.5" />
+    <Position X="12.25" Y="0.5" Width="1.5" />
     <Compartments>
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
@@ -25,14 +25,14 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Nyn.Wyrm">
-    <Position X="3" Y="2.75" Width="1.5" />
+    <Position X="3" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Structure\Wyrm.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Nyn.Beast">
-    <Position X="5" Y="2.75" Width="1.5" />
+    <Position X="5" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAACAAAAA=</HashCode>
       <FileName>Structure\Beast.cs</FileName>
@@ -46,14 +46,14 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Nyn.Elemental">
-    <Position X="9.25" Y="2.75" Width="1.5" />
+    <Position X="9.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
       <FileName>Structure\Elemental.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Nyn.Human">
-    <Position X="1" Y="2.75" Width="1.5" />
+    <Position X="1" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
       <FileName>Structure\Human.cs</FileName>
