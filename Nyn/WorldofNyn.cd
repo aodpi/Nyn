@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nyn.Creature">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAgAAAAAQAAAAAAAAAQAAAAQAAAAA=</HashCode>
+      <FileName>Structure\Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nyn.NynRealm">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Nyn.NynRealm.SortBy" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>NynRealm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAADAAAAAAAAAAAAAQEAQAAAIQAAAA=</HashCode>
+      <FileName>NynRealm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nyn.Wyrm">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structure\Wyrm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nyn.Beast">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Structure\Beast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nyn.Giant">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structure\Giant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nyn.Elemental">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Structure\Elemental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nyn.Human">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Structure\Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Nyn.Faction">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAEAAAAAAQAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structure\Faction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
