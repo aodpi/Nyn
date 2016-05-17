@@ -8,12 +8,21 @@ namespace Nyn
 {
     public class NynRealm
     {
+        private static readonly NynRealm _instance = new NynRealm();
+
+        public static NynRealm Instance
+        {
+            get
+            {
+                return _instance;
+            }
+        }
         /// <summary>
         /// Backing field for the actual property.
         /// </summary>
         private List<Creature> _database;
 
-        public NynRealm()
+        protected NynRealm()
         {
             DataBase = new List<Creature>();
         }

@@ -30,5 +30,10 @@ namespace Nyn
         {
             return Name.Equals(((Creature)obj).Name);
         }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
     }
 }

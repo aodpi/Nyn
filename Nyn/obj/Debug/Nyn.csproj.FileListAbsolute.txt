@@ -1,0 +1,5 @@
+C:\Users\balan\Source\Repos\Nyn\Nyn\bin\Debug\Nyn.exe.config
+C:\Users\balan\Source\Repos\Nyn\Nyn\bin\Debug\Nyn.exe
+C:\Users\balan\Source\Repos\Nyn\Nyn\bin\Debug\Nyn.pdb
+C:\Users\balan\Source\Repos\Nyn\Nyn\obj\Debug\Nyn.exe
+C:\Users\balan\Source\Repos\Nyn\Nyn\obj\Debug\Nyn.pdb

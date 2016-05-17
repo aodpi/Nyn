@@ -10,7 +10,7 @@ namespace Nyn
     {
         static void Main(string[] args)
         {
-            NynRealm nyn = new NynRealm();
+            NynRealm nyn = NynRealm.Instance;
             int sel = 0;
             asdf:
             Console.Clear();

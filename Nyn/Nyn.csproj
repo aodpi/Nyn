@@ -52,6 +52,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structure\Creature.cs" />
+    <Compile Include="Structure\ICreature.cs" />
     <Compile Include="Structure\Wyrm.cs" />
   </ItemGroup>
   <ItemGroup>
