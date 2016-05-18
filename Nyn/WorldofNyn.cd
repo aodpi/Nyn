@@ -3,7 +3,7 @@
   <Class Name="Nyn.Creature">
     <Position X="5.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAQAAAAAAAgAAAAAQAAAAAAAAAQAAAAQAAAAA=</HashCode>
+      <HashCode>AAAAAAAAQAAAAAAAgAAAAAQAAAAAAIAAQAAAAQAAAAA=</HashCode>
       <FileName>Structure\Creature.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -13,40 +13,40 @@
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
     <NestedTypes>
-      <Enum Name="Nyn.NynRealm.SortBy" Collapsed="true">
+      <Enum Name="Nyn.NynRealm.SortBy">
         <TypeIdentifier>
           <NewMemberFileName>NynRealm.cs</NewMemberFileName>
         </TypeIdentifier>
       </Enum>
     </NestedTypes>
     <TypeIdentifier>
-      <HashCode>AAAAAACAAAAAAAAADAAAAAAAAAAAAAQEAQAAAIQAAAA=</HashCode>
+      <HashCode>AAAEAACAAAAAAAAADAAAAAAAAAAAAAQEQQAAAIQAAAA=</HashCode>
       <FileName>NynRealm.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Nyn.Wyrm">
-    <Position X="3" Y="3.25" Width="1.5" />
+    <Position X="2.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Structure\Wyrm.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Nyn.Beast">
-    <Position X="5" Y="3.5" Width="1.5" />
+    <Position X="4.5" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAACAAAAA=</HashCode>
       <FileName>Structure\Beast.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Nyn.Giant">
-    <Position X="7" Y="3.25" Width="1.5" />
+    <Position X="6.25" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Structure\Giant.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Nyn.Elemental">
-    <Position X="9.25" Y="3.25" Width="1.5" />
+    <Position X="8" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
       <FileName>Structure\Elemental.cs</FileName>
